@@ -43,11 +43,11 @@ Pin Pal is a Chrome extension that allows users to store unlimited shortcuts and
 
 ## Screenshots
 
-![Screenshot 1](![2](https://github.com/user-attachments/assets/a7581fd8-c243-415e-8d44-385beeb0f8bd))  
+![Screenshot 1](https://github.com/user-attachments/assets/a7581fd8-c243-415e-8d44-385beeb0f8bd) 
 
-![Screenshot 2](![3](https://github.com/user-attachments/assets/d737c7cb-bbf7-408c-b5f1-befcc338a82f))  
+![Screenshot 2](https://github.com/user-attachments/assets/d737c7cb-bbf7-408c-b5f1-befcc338a82f) 
 
-![Screenshot 3](![5](https://github.com/user-attachments/assets/26d5a17d-ee06-485d-b832-8c6e262f5b45))  
+![Screenshot 3](https://github.com/user-attachments/assets/26d5a17d-ee06-485d-b832-8c6e262f5b45)
 
 ## Installation
 
