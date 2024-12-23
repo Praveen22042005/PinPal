@@ -60,4 +60,4 @@ Pin Pal is a Chrome extension that allows users to store unlimited shortcuts and
 
 2. Click "Add to Chrome".
 
-3. The extension will added to your chrome.
+3. The extension will be added to your chrome.
